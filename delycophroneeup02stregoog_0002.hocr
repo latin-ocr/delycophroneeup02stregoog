@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./delycophroneeup02stregoog_0002.png"; bbox 0 0 2792 4767; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 371 1208 777 1270">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 371 1208 777 1270">
+     <span class='ocr_line' id='line_1_1' title="bbox 371 1208 777 1270; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 371 1233 373 1238; x_wconf 56' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 468 1208 777 1270; x_wconf 75' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 155 1428 1091 1539">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 155 1428 1091 1539">
+     <span class='ocr_line' id='line_1_2' title="bbox 155 1428 1091 1539; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 155 1436 546 1539; x_wconf 73' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_4' title='bbox 570 1428 659 1538; x_wconf 61' lang='grc' dir='ltr'><strong>«ΟΡ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 698 1437 1091 1539; x_wconf 75' lang='lat' dir='ltr'><strong>CALIFORNIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 244 1650 732 1898">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 244 1650 732 1898">
+     <span class='ocr_line' id='line_1_3' title="bbox 256 1650 668 1766; baseline -0.019 -8"><span class='ocrx_word' id='word_1_6' title='bbox 256 1739 262 1758; x_wconf 23' lang='grc' dir='ltr'><strong>ς</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 546 1650 668 1766; x_wconf 60' lang='grc' dir='ltr'>Ἦ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 244 1774 732 1898; baseline 0.006 -26"><span class='ocrx_word' id='word_1_8' title='bbox 244 1891 248 1898; x_wconf 38' lang='grc'>,</span> <span class='ocrx_word' id='word_1_9' title='bbox 426 1825 517 1889; x_wconf 53' lang='lat' dir='ltr'><strong>aa„</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 552 1774 732 1890; x_wconf 61' lang='lat'><strong>5514-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 953 2061 1088 2263">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 953 2061 1088 2263">
+     <span class='ocr_line' id='line_1_5' title="bbox 953 2061 1088 2263; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 953 2061 1088 2263; x_wconf 51' lang='lat' dir='ltr'><em>Q</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1400 4756">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1400 4756">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1400 4756; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1400 4756; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
